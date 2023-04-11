@@ -1,3 +1,1 @@
-
-let yourArray = ['one', 2, true];
-console.log(yourArray);
+let yourArray = ["string", 1, false, true, 23]
